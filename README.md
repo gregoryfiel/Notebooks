@@ -12,7 +12,6 @@ Bem-vindo ao meu repositório de notebooks Python! Este repositório contém um 
 - **Manipulação de Dados com Numpy:** Como usar a biblioteca Numpy para realizar operações eficientes com arrays numéricos.
 - **Visualização de Dados com Seaborn:** Um guia sobre como criar visualizações de dados atraentes e informativas usando Seaborn.
 - **Exemplos Práticos:** Exercícios e exemplos práticos para aplicar o que você aprendeu.
-- **Recursos Adicionais:** Links e recursos para aprofundar seus conhecimentos em Python e bibliotecas relacionadas.
 
 ## Como Usar
 
