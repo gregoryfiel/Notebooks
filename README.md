@@ -1,6 +1,6 @@
 # Notebooks de Python - Guia de Estudos
 
-Bem-vindo ao meu repositório de notebooks Python! Este repositório contém um notebook Python abrangente, projetado para ajudar você a iniciar seus estudos em Python. O notebook é estruturado de forma organizada, com comentários marcados com "#" e "##" para facilitar a compreensão e a execução, especialmente em ambientes como o Google Colab.
+Bem-vindo ao meu repositório de notebooks! Inicialmente este repositório contém um notebook Python abrangente, projetado para ajudar você a iniciar seus estudos em Python. O notebook é estruturado de forma organizada, com comentários marcados com "#" e "##" para facilitar a compreensão e a execução, especialmente em ambientes como o Google Colab. Futuramente, pretendo incluir novas bibliotecas, como pandas e requests.
 
 ## Notebook Principal
 
